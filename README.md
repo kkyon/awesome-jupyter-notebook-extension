@@ -11,5 +11,6 @@ awesome-jupyter-notebook-extension
 
 
 [holoviews:](http://holoviews.org/user_guide/Streaming_Data.html)
+
 [streamz](https://github.com/mrocklin/streamz.git)
 
